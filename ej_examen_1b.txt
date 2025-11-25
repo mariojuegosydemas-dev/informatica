@@ -1,0 +1,12 @@
+Introduce un número: 33
+Introduce otro número 12
+Introduce otro número 12
+Introduce otro número 13
+Introduce otro número 14
+Introduce otro número 15
+Introduce otro número 65
+Introduce otro número 78
+Introduce otro número 89
+Introduce otro número 99
+The largest number is:99
+The average is:43
